@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>title</title>
+	<title>Sorry Yositha</title>
 </head>
 <body>
 	<h1>Sorry Yositha</h1>
-	<p>I just wanted to let you know that I'm sorry for whatever it was that upset you. I really value our relationship and I want to make things right between us. Please let me know how I can do that.</p>
 </body>
 </html>
